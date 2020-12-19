@@ -1,0 +1,4 @@
+﻿  exercise_1.cpp
+E:\BITI\diff_study_plan\Языки_программирования\term_1\practice\01\exercise_1\exercise_1\exercise_1.cpp(23,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\BITI\diff_study_plan\Языки_программирования\term_1\practice\01\exercise_1\exercise_1\exercise_1.cpp(72,7): warning C4101: 'data': unreferenced local variable
+  exercise_1.vcxproj -> E:\BITI\diff_study_plan\Языки_программирования\term_1\practice\01\exercise_1\Debug\exercise_1.exe

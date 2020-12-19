@@ -1,0 +1,3 @@
+﻿  exercise_6.cpp
+E:\BITI\diff_study_plan\Языки_программирования\term_1\practice\02\exercise_6\exercise_6\exercise_6.cpp(56,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  exercise_6.vcxproj -> E:\BITI\diff_study_plan\Языки_программирования\term_1\practice\02\exercise_6\Debug\exercise_6.exe
