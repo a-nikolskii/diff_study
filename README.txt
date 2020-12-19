@@ -1,7 +1,7 @@
 # diff_study
 ./
  |----control_work/
- |				            |----control_1/
+ |                |----control_1/
  |                |----control_2/
  |                |----control_3/
  |
